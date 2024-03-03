@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 4A67-8B03
+
+ Directory of C:\Users\Dinesh\Desktop\git testing
+
+03-03-2024  10:15    <DIR>          .
+03-03-2024  10:14    <DIR>          ..
+03-03-2024  10:15                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  42,834,210,816 bytes free
